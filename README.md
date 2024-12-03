@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03-12-2024
+## Register Number:24900786
+## Name:K.PAVITHRA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,67 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Mobile-Friendly Design:
 
+Implementation: Use a responsive CSS framework like Bootstrap to ensure the website adjusts seamlessly on mobile devices.
+
+
+
+2. Live Webinars Section:
+
+Implementation: Embed live streaming options using platforms like YouTube Live or Zoom Webinars directly into the site.
+
+
+
+3. Geolocation Map:
+
+Implementation: Integrate Google Maps API to show a world map with alumni pins, and allow searching by location.
+
+
+
+4. Survey and Poll Tools:
+
+Implementation: Add an embeddable poll tool like Mentimeter or integrate custom surveys stored in a database with real-time result displays.
 
 ## Proposed Solution / Architecture Diagram
+![web arch diagram](https://github.com/user-attachments/assets/1a40fb78-17b7-457b-95eb-01cc7be3e9f6)
 
 
 ## Use Cases
-
+Alumni:
+1. Create a profile and update information
+   
+2. Search and connect with other alumni
+   
+3. Join alumni groups and forums
+   
+4. Participate in online discussions and polls
+   
+5. Donate to the institute
+    
+6. Register for alumni events
+    
+7. Post job opportunities
+    
 
 ## Technology Stack
+1.Frontend: React, Angular, or Vue.js
+
+2.Backend: Node.js, Python (Django or Flask), or Ruby on Rails
+
+3.Database: PostgreSQL, MySQL, or MongoDB
+
+4.Cloud Platform: AWS, Azure, or Google Cloud Platform
+
+5.Mobile Development: React Native, Flutter, or native iOS and Android development
 
 
 ## Dependencies
+1. Third-party libraries and frameworks: For authentication, payment processing,
+email, and SMS notifications.
 
+2. Cloud infrastructure providers: For hosting the application and database.
+ 
+3. Domain name and hosting: For the website's domain name and web hosting.
+ 
+4. Security measures: To protect user data and prevent cyberattacks
